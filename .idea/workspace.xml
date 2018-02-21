@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="30fbe26f-3b61-4431-8131-542b13b66302" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.swipebox.js" afterPath="$PROJECT_DIR$/js/jquery.swipebox.js" />
-      <change beforePath="$PROJECT_DIR$/styles/swipebox.css" afterPath="$PROJECT_DIR$/styles/swipebox.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,8 +25,8 @@
       <file leaf-file-name="smartwizard2-multiple.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/smartwizard2-multiple.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="837" column="29" lean-forward="false" selection-start-line="837" selection-start-column="29" selection-end-line="837" selection-end-column="29" />
+            <state relative-caret-position="3747">
+              <caret line="826" column="4" lean-forward="true" selection-start-line="826" selection-start-column="4" selection-end-line="826" selection-end-column="4" />
               <folding>
                 <element signature="n#ul#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#li#0;n#ul#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -49,8 +47,8 @@
       <file leaf-file-name="swipebox.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/swipebox.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="106" column="13" lean-forward="false" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+            <state relative-caret-position="245">
+              <caret line="300" column="36" lean-forward="true" selection-start-line="300" selection-start-column="36" selection-end-line="300" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -59,8 +57,8 @@
       <file leaf-file-name="jquery.swipebox.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/jquery.swipebox.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="517" column="49" lean-forward="false" selection-start-line="517" selection-start-column="44" selection-end-line="517" selection-end-column="49" />
+            <state relative-caret-position="-17634">
+              <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="24" />
               <folding>
                 <marker date="1519204573102" expanded="true" signature="1506:1904" ph="..." />
                 <marker date="1519204573102" expanded="true" signature="1542:1893" ph="..." />
@@ -89,6 +87,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -105,6 +104,8 @@
       <find>box-container</find>
       <find>#box-container</find>
       <find>hover</find>
+      <find>auto</find>
+      <find>autoplay</find>
       <find>visible-bars</find>
     </findStrings>
     <replaceStrings>
@@ -125,8 +126,9 @@
         <option value="$PROJECT_DIR$/slick.html" />
         <option value="$USER_HOME$/Downloads/slick-master/slick-master/index.html" />
         <option value="$USER_HOME$/Downloads/swipebox-master/swipebox-master/index.html" />
-        <option value="$PROJECT_DIR$/smartwizard2-multiple.htm" />
         <option value="$PROJECT_DIR$/js/jquery.swipebox.js" />
+        <option value="$PROJECT_DIR$/js/slider.js" />
+        <option value="$PROJECT_DIR$/smartwizard2-multiple.htm" />
         <option value="$PROJECT_DIR$/styles/swipebox.css" />
       </list>
     </option>
@@ -174,6 +176,11 @@
               <item name="mstratman-jQuery-Smart-Wizard-1521955" type="b2602c69:ProjectViewProjectNode" />
               <item name="mstratman-jQuery-Smart-Wizard-1521955" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mstratman-jQuery-Smart-Wizard-1521955" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mstratman-jQuery-Smart-Wizard-1521955" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mstratman-jQuery-Smart-Wizard-1521955" type="b2602c69:ProjectViewProjectNode" />
@@ -242,12 +249,12 @@
       <workItem from="1518751840868" duration="642000" />
       <workItem from="1519121652327" duration="7938000" />
       <workItem from="1519149028377" duration="1000000" />
-      <workItem from="1519192819062" duration="9895000" />
+      <workItem from="1519192819062" duration="13233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30474000" />
+    <option name="totallyTimeSpent" value="33812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
@@ -713,10 +720,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.swipebox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17634">
+          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <marker date="1519204573102" expanded="true" signature="1506:1904" ph="..." />
+            <marker date="1519204573102" expanded="true" signature="1542:1893" ph="..." />
+            <marker date="1519204573102" expanded="true" signature="1617:1671" ph="..." />
+            <marker date="1519204573102" expanded="true" signature="1709:1845" ph="..." />
+            <marker date="1519204573102" expanded="true" signature="1744:1831" ph="..." />
+            <marker date="1519204573102" expanded="true" signature="20821:20870" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/smartwizard2-multiple.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="837" column="29" lean-forward="false" selection-start-line="837" selection-start-column="29" selection-end-line="837" selection-end-column="29" />
+        <state relative-caret-position="3747">
+          <caret line="826" column="4" lean-forward="true" selection-start-line="826" selection-start-column="4" selection-end-line="826" selection-end-column="4" />
           <folding>
             <element signature="n#ul#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#0;n#ul#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -733,25 +763,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.swipebox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="517" column="49" lean-forward="false" selection-start-line="517" selection-start-column="44" selection-end-line="517" selection-end-column="49" />
-          <folding>
-            <marker date="1519204573102" expanded="true" signature="1506:1904" ph="..." />
-            <marker date="1519204573102" expanded="true" signature="1542:1893" ph="..." />
-            <marker date="1519204573102" expanded="true" signature="1617:1671" ph="..." />
-            <marker date="1519204573102" expanded="true" signature="1709:1845" ph="..." />
-            <marker date="1519204573102" expanded="true" signature="1744:1831" ph="..." />
-            <marker date="1519204573102" expanded="true" signature="20821:20870" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles/swipebox.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="106" column="13" lean-forward="false" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        <state relative-caret-position="245">
+          <caret line="300" column="36" lean-forward="true" selection-start-line="300" selection-start-column="36" selection-end-line="300" selection-end-column="36" />
           <folding />
         </state>
       </provider>
