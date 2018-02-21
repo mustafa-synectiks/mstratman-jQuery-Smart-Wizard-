@@ -475,7 +475,7 @@
 					bars.addClass( 'visible-bars' );
 				} else {
 					$( '#swipebox-top-bar' ).animate( { top : 0 }, 500 );
-					$( '#swipebox-bottom-bar' ).animate( { bottom : 0 }, 500 );
+					$( '#swipebox-bottom-bar' ).animate( { bottom : 20 }, 500 );
 					setTimeout( function() {
 						bars.addClass( 'visible-bars' );
 					}, 1000 );

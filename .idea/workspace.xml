@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30fbe26f-3b61-4431-8131-542b13b66302" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/angular-theme.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/angularjs-wallpaper.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/bmw-blue.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/phoca_thumb_l_201726.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/smartwizard2-multiple.htm" afterPath="$PROJECT_DIR$/smartwizard2-multiple.htm" />
-      <change beforePath="$PROJECT_DIR$/styles/smart_wizard.css" afterPath="$PROJECT_DIR$/styles/smart_wizard.css" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.swipebox.js" afterPath="$PROJECT_DIR$/js/jquery.swipebox.js" />
+      <change beforePath="$PROJECT_DIR$/styles/swipebox.css" afterPath="$PROJECT_DIR$/styles/swipebox.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -31,8 +27,8 @@
       <file leaf-file-name="smartwizard2-multiple.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/smartwizard2-multiple.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="193" column="140" lean-forward="false" selection-start-line="193" selection-start-column="140" selection-end-line="193" selection-end-column="140" />
+            <state relative-caret-position="136">
+              <caret line="837" column="29" lean-forward="false" selection-start-line="837" selection-start-column="29" selection-end-line="837" selection-end-column="29" />
               <folding>
                 <element signature="n#ul#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#li#0;n#ul#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -45,7 +41,6 @@
                 <element signature="n#div#1;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#3;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -54,8 +49,8 @@
       <file leaf-file-name="swipebox.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/styles/swipebox.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="366">
-              <caret line="298" column="7" lean-forward="true" selection-start-line="298" selection-start-column="7" selection-end-line="298" selection-end-column="7" />
+            <state relative-caret-position="189">
+              <caret line="106" column="13" lean-forward="false" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -64,15 +59,15 @@
       <file leaf-file-name="jquery.swipebox.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/jquery.swipebox.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="49" column="59" lean-forward="true" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
+            <state relative-caret-position="166">
+              <caret line="517" column="49" lean-forward="false" selection-start-line="517" selection-start-column="44" selection-end-line="517" selection-end-column="49" />
               <folding>
-                <marker date="1519199411517" expanded="true" signature="1506:1904" ph="..." />
-                <marker date="1519199411517" expanded="true" signature="1542:1893" ph="..." />
-                <marker date="1519199411517" expanded="true" signature="1617:1671" ph="..." />
-                <marker date="1519199411517" expanded="true" signature="1709:1845" ph="..." />
-                <marker date="1519199411517" expanded="true" signature="1744:1831" ph="..." />
-                <marker date="1519199411517" expanded="true" signature="20820:20869" ph="..." />
+                <marker date="1519204573102" expanded="true" signature="1506:1904" ph="..." />
+                <marker date="1519204573102" expanded="true" signature="1542:1893" ph="..." />
+                <marker date="1519204573102" expanded="true" signature="1617:1671" ph="..." />
+                <marker date="1519204573102" expanded="true" signature="1709:1845" ph="..." />
+                <marker date="1519204573102" expanded="true" signature="1744:1831" ph="..." />
+                <marker date="1519204573102" expanded="true" signature="20821:20870" ph="..." />
               </folding>
             </state>
           </provider>
@@ -109,6 +104,8 @@
       <find>swipebox-prev</find>
       <find>box-container</find>
       <find>#box-container</find>
+      <find>hover</find>
+      <find>visible-bars</find>
     </findStrings>
     <replaceStrings>
       <replace>step-1</replace>
@@ -128,8 +125,8 @@
         <option value="$PROJECT_DIR$/slick.html" />
         <option value="$USER_HOME$/Downloads/slick-master/slick-master/index.html" />
         <option value="$USER_HOME$/Downloads/swipebox-master/swipebox-master/index.html" />
-        <option value="$PROJECT_DIR$/js/jquery.swipebox.js" />
         <option value="$PROJECT_DIR$/smartwizard2-multiple.htm" />
+        <option value="$PROJECT_DIR$/js/jquery.swipebox.js" />
         <option value="$PROJECT_DIR$/styles/swipebox.css" />
       </list>
     </option>
@@ -245,12 +242,12 @@
       <workItem from="1518751840868" duration="642000" />
       <workItem from="1519121652327" duration="7938000" />
       <workItem from="1519149028377" duration="1000000" />
-      <workItem from="1519192819062" duration="7478000" />
+      <workItem from="1519192819062" duration="9895000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28057000" />
+    <option name="totallyTimeSpent" value="30474000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="744" extended-state="6" />
@@ -331,7 +328,6 @@
             <element signature="n#div#1;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -368,7 +364,6 @@
             <element signature="n#div#1;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -405,7 +400,6 @@
             <element signature="n#div#1;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -455,7 +449,6 @@
             <element signature="n#div#1;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -505,7 +498,6 @@
             <element signature="n#div#1;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -555,7 +547,6 @@
             <element signature="n#div#1;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -605,7 +596,6 @@
             <element signature="n#div#1;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -723,25 +713,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.swipebox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="49" column="59" lean-forward="true" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
-          <folding>
-            <marker date="1519199411517" expanded="true" signature="1506:1904" ph="..." />
-            <marker date="1519199411517" expanded="true" signature="1542:1893" ph="..." />
-            <marker date="1519199411517" expanded="true" signature="1617:1671" ph="..." />
-            <marker date="1519199411517" expanded="true" signature="1709:1845" ph="..." />
-            <marker date="1519199411517" expanded="true" signature="1744:1831" ph="..." />
-            <marker date="1519199411517" expanded="true" signature="20820:20869" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/smartwizard2-multiple.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="193" column="140" lean-forward="false" selection-start-line="193" selection-start-column="140" selection-end-line="193" selection-end-column="140" />
+        <state relative-caret-position="136">
+          <caret line="837" column="29" lean-forward="false" selection-start-line="837" selection-start-column="29" selection-end-line="837" selection-end-column="29" />
           <folding>
             <element signature="n#ul#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#li#0;n#ul#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -754,15 +729,29 @@
             <element signature="n#div#1;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#3;n#div#0;n#td#0;n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.swipebox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="517" column="49" lean-forward="false" selection-start-line="517" selection-start-column="44" selection-end-line="517" selection-end-column="49" />
+          <folding>
+            <marker date="1519204573102" expanded="true" signature="1506:1904" ph="..." />
+            <marker date="1519204573102" expanded="true" signature="1542:1893" ph="..." />
+            <marker date="1519204573102" expanded="true" signature="1617:1671" ph="..." />
+            <marker date="1519204573102" expanded="true" signature="1709:1845" ph="..." />
+            <marker date="1519204573102" expanded="true" signature="1744:1831" ph="..." />
+            <marker date="1519204573102" expanded="true" signature="20821:20870" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/styles/swipebox.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="298" column="7" lean-forward="true" selection-start-line="298" selection-start-column="7" selection-end-line="298" selection-end-column="7" />
+        <state relative-caret-position="189">
+          <caret line="106" column="13" lean-forward="false" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
           <folding />
         </state>
       </provider>
