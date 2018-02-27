@@ -131,6 +131,7 @@ html.swipebox-html.swipebox-touch {
 #swipebox-close {
   background-image: url("../images/icons.png") !important;
   background-repeat: no-repeat;
+  background-size: 8em;
   border: none !important;
   text-decoration: none !important;
   cursor: pointer;
